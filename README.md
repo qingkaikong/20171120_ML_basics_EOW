@@ -1,5 +1,7 @@
 # Machine learning in Python with scikit-learn
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/qingkaikong/20171120_ML_basics_EOW/master)
+
 This repo contains the workshop material for Earthquake of this week 2017 at [BSL](http://seismo.berkeley.edu/). It is a short version of the material Qingkai taught at [2017 CDIPS Data Science Workshop](http://cdips.physics.berkeley.edu/2017-cdips-data-science-workshop/), you can find the long version [here](https://github.com/qingkaikong/20170628_ML_sklearn). It is developed by [Qingkai Kong](http://seismo.berkeley.edu/qingkaikong/). 
 
 ## Goals of the workshop
